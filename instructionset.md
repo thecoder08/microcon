@@ -1,5 +1,5 @@
 # MicroCon instruction set
-This is the instruction set for the MicroCon 8 bit virtual console.
+This is the instruction set for the MicroCon virtual console.
 ## Load
 This instruction loads a value into the accumulator.
 ### immidiate - 0x0001
